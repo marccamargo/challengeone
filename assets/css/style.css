@@ -59,6 +59,9 @@ header h1{
     left: 12%;
     top: 80%;
 }
+.observacao .icon-info{
+    color: #08212e;
+}
 .observacao p{
     font-family: "Inter";
     font-style: normal;
