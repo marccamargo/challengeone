@@ -15,12 +15,14 @@ O ícone, o título e a descrição da página;
 O ícone de informação em aviso de "apenas letras minúsculas e sem acento";
 A mudança das imagens nos containers que mostra o resultado da codificação/decodificação para readonly, pois caso o usuário  não digitasse algo nela(recebe um alerta para digitar um texto), digitando um texto e clicando em encriptar(Texto encriptado com sucesso) e clicando em desencriptar(Texto desencriptado com sucesso);
 o footer, onde adicionei meu nome e redes sociais;
+
 No CSS modifiquei:
 A fonte para "Inter" de acordo com a proposta , seu tamanho e o espaçamento das linhas usando o gap;
 As cores do fundo (#08212e;#495057;#f3f5fc;#E5E5E5;#0a3871;#0a3851;#343a40 ) e das sombras;
 As animações dos links e dos botões (hover, opacity);
 A imagem de fundo da textarea quando não há texto inserido (:placeholder-shown);
 O layout da página para dispositivos móveis(Responsividade);
+
 No JavaScript:
 Criei a função de encriptar usando  let document.getElementById("").value, depois usando o replace para mudar os caracteres  e as condicionais if(texto.length !=0) e else;
 Criei a função de desencriptar  usando a mesma lógica da funçao encriptar só que , no replace, invertendo os caracteres;
