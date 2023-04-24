@@ -1,7 +1,7 @@
 
 Codificador e Decodificador de texto - Utilizando HTML, CSS e JavaScript
 
-Este é o primeiro challenge desenvolvido durante o programa ONE - Oracle Next Education, com o objetivo de colocar em prática os conteúdos estudados. O desafio consiste em criar um codificador/decodificador de texto utilizando conhecimentos em HTML, CSS e JavaScript adquiridos durante as aulas. Foram disponibilizados cards no Trello para orientar e gerenciar o desenvolvimento do projeto e um modelo proposto de estilização no Figma.
+Este é o primeiro challenge desenvolvido durante o programa ONE - Oracle Next Education, com o objetivo de colocar em prática os conteúdos estudados. O desafio consiste em criar um codificador/decodificador de texto utilizando conhecimentos em HTML, CSS e JavaScript adquiridos durante as aulas. Foram disponibilizados cards no Trello para orientar e gerenciar o desenvolvimento do projeto e um modelo proposto de estilização no Figma. Este desafio não foi fácil para mim. Exigiu que buscasse retomar o conhecimento das aulas e  também pesquisar em várias fontes  fora do curso. Pesquisei vários projetos tanto de brasileiros, como de chilenos e espanhois e cheguei a um meio termo. Aproveito para agradecer a cada um  pela contribuição em meu projeto.Obrigado em primeiro lugar aos professores do projeto Alura! Obrigado também  Crislaine Paula,MGB Computation e Pipe Bejarano...
 
 Meu projeto
 
